@@ -1,3 +1,4 @@
+The usage api can be found [here](https://apidoc.ont.io/smartcontract/#executionengine-entryscripthash).
 ContractB script hash: 91396642e3ec943bf749eb858ec7edd118ee54be
 ContractA script hash: 33b13425ec926402c7e8cd084755f3be7fff130f
 
